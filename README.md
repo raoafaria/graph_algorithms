@@ -18,7 +18,7 @@ Follow the menu prompts to:
 
 Clone the repository:
 
-git clone https://github.com/raoafaria/GraphAlgorithms.git
+git clone https://github.com/raoafaria/graph_algorithms.git
 cd GraphAlgorithms
 
 # Run the script:
